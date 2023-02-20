@@ -4,4 +4,4 @@
 - *2021.06* "Outstanding Graduates" of Beihang University
 - *2020.12* First Prize of "National Undergraduate Mathematics Contest"
 - *2020.10* National Encouragement Scholarship, Ministry of Education of China
-- *2019.09* "Outstanding Academic Performance", Beihang University
+- *2020.09* "Outstanding Academic Performance", Beihang University
