@@ -22,13 +22,13 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Chenyang Liu <br /> (刘辰阳)"
-  avatar           : "images/Profi.jpg"
+  avatar           : "images/android-chrome-512x512.jpg"
   bio              : "LEVIR Group"
   location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7jZZKH0AAAAJ&hl=en&oi=ao"
-  email            : "windvchen@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=jBnA45cAAAAJ"
+  email            : "liuchenyang@buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WindVChen"
+  github           : "Chen-Yang-Liu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"rayeren"
-  dblp             : "https://dblp.org/pid/86/10143.html"
-  orcid            : "https://orcid.org/0000-0003-0031-8417"
+  dblp             : #"https://dblp.org/pid/86/10143.html"
+  orcid            : "https://orcid.org/0000-0003-3034-6646"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
