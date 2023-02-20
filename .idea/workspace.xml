@@ -27,8 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/includes/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/honers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/honers.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -444,31 +443,5 @@
     <MESSAGE value="02/18 InitFinish" />
     <MESSAGE value="2/18 supp" />
     <option name="LAST_COMMIT_MESSAGE" value="2/18 supp" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676644889063">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676644889063" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1676694927756">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1676694927756" />
-    <state x="806" y="433" key="VCS.ChangelistChooser" timestamp="1676688628154">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="806" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676688628154" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1676724855388">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676724855388" />
-    <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1676692925053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676692925053" />
-    <state x="800" y="254" width="938" height="532" key="find.popup" timestamp="1676724335184">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="800" y="254" width="938" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676724335184" />
   </component>
 </project>
