@@ -25,7 +25,26 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="" />
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/homepage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/homepage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/others.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/INRCls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/INRSR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/OvarNet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PPNet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TFormer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/images/site.webmanifest" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>

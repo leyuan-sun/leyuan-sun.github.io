@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jianqi Chen (陈剑奇)"
+title                    : "Chenyang Liu (刘辰阳)"
 description              : "Pursuing master's degree in LEVIR group, Beihang. Focusing on AISafety, image synthesis, and remote sensing image processing."
-repository               : "WindVChen/WindVChen.github.io"
+repository               : "Chen-Yang-Liu/Chen-Yang-Liu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Jianqi Chen <br /> (陈剑奇)"
+  name             : "Chenyang Liu <br /> (刘辰阳)"
   avatar           : "images/Profi.jpg"
   bio              : "LEVIR Group"
   location         : "Beijing"
