@@ -1,12 +1,24 @@
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Seg_INR.png"><img src='images/Seg_INR.png' alt="Seg_INR" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2303.08401"><b>Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation</b></a> \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023, Undergoing Review* \\
+Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi, and Zhengxia Zou \\
+[<a href="https://arxiv.org/abs/2303.08401">PDF</a>]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/PSNet.png"><img src='images/PSNet.png' alt="PSNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2303.00355"><b>Progressive Scale-aware Network for Remote sensing Image Change Captioning</b></a> \\
  *International Geoscience and Remote Sensing Symposium (IGARSS), 2023* \\
 **<font color="#C00000">Chenyang Liu</font>**, Jiajun Yang, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2303.00355">PDF</a>]
+[<a href="https://arxiv.org/abs/2303.00355">PDF</a>] [<a href="https://qizipeng.github.io/IRT/">Page</a>]
 
 </div>
 </div>
