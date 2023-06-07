@@ -35,7 +35,7 @@ Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSICCformer.png"><img src='images/RSICCformer.png' alt="RSICCformer" width="100%" height="80%"> </a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSICCformer2.png"><img src='images/RSICCformer2.png' alt="RSICCformer" width="100%"> </a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="http://levir.buaa.edu.cn/publications/ChangeCaptioning.pdf"><b>Remote Sensing Image Change Captioning With Dual-Branch Transformers: A New Method and a Large Scale Dataset</b></a> \\
