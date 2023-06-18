@@ -3,3 +3,5 @@
 - *2017.09 - 2021.06*, B.S. in Image Processing Center, Beihang University, China.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6c-URZho7NNzq18AMnSMO1P-dpZAABAwsvBT53v-o5A&cl=ffffff&w=a"></script>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6c-URZho7NNzq18AMnSMO1P-dpZAABAwsvBT53v-o5A"></script>
