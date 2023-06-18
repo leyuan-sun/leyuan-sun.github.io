@@ -1,3 +1,9 @@
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Prompt_CC.png"><img src='images/Prompt_CC.png' alt="Prompt_CC" width="100%"></a></div></div>
