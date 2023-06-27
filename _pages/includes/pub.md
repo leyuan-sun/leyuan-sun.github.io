@@ -17,7 +17,7 @@
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10149540"><b>Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
 Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
-[<a https://ieeexplore.ieee.org/abstract/document/10149540">PDF</a>] [<a href="https://qizipeng.github.io/IRT/">Page</a>]
+[<a href="https://ieeexplore.ieee.org/abstract/document/10149540">PDF</a>] [<a href="https://qizipeng.github.io/IRT/">Page</a>]
 
 </div>
 </div>
