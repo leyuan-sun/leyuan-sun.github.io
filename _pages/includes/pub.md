@@ -1,5 +1,17 @@
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSPrompter.png"><img src='images/RSPrompter.png' alt="RSPrompter" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2306.16269"><b>RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model</b></a> \\
+ *Undergoing Review* \\
+Keyan Chen, <b>Chenyang Liu</b>, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi  \\
+[<a href="https://arxiv.org/abs/2306.16269">PDF</a>] [<a href="https://kyanchen.github.io/RSPrompter/">Page</a>] [<a href="https://github.com/KyanChen/RSPrompter">Code</a>] [<a href="https://huggingface.co/spaces/KyanChen/RSPrompter">Demo</a>]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Prompt_CC.png"><img src='images/Prompt_CC.png' alt="Prompt_CC" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
