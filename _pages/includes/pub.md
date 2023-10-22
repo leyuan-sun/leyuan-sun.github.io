@@ -15,10 +15,10 @@ Keyan Chen, <b>Chenyang Liu</b>, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Z
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Prompt_CC.png"><img src='images/Prompt_CC.png' alt="Prompt_CC" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://doi.org/10.36227/techrxiv.23269310.v1"><b>A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning</b></a> \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10271701"><b>A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
 <b>Chenyang Liu</b>, Rui Zhao, Jianqi Chen, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi  \\
-[<a href="https://www.techrxiv.org/articles/preprint/A_Decoupling_Paradigm_with_Prompt_Learning_for_Remote_Sensing_Image_Change_Captioning/23269310">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/PromptCC">Page</a>]
+[<a href="https://ieeexplore.ieee.org/document/10271701">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/PromptCC">Page</a>]
 
 </div>
 </div>
@@ -38,10 +38,10 @@ Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/PSNet.png"><img src='images/PSNet.png' alt="PSNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/abs/2303.00355"><b>Progressive Scale-aware Network for Remote sensing Image Change Captioning</b></a> \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10283451"><b>Progressive Scale-aware Network for Remote sensing Image Change Captioning</b></a> \\
  *International Geoscience and Remote Sensing Symposium (IGARSS), 2023* \\
 <b>Chenyang Liu</b>, Jiajun Yang, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2303.00355">PDF</a>]
+[<a href="https://ieeexplore.ieee.org/document/10283451">PDF</a>]
 
 </div>
 </div>
