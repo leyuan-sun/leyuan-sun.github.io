@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2306.16269"><b>RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model</b></a> \\
- *Undergoing Review* \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
 Keyan Chen, <b>Chenyang Liu</b>, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi  \\
 [<a href="https://arxiv.org/abs/2306.16269">PDF</a>] [<a href="https://kyanchen.github.io/RSPrompter/">Page</a>] [<a href="https://github.com/KyanChen/RSPrompter">Code</a>] [<a href="https://huggingface.co/spaces/KyanChen/RSPrompter">Demo</a>]
 
