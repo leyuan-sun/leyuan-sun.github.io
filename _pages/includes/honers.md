@@ -1,6 +1,5 @@
 # 🏆 Selected Honors
 - *2023.09* "Graduate Entrance Scholarship" of Beihang University
-- *2023.09* "Graduate Entrance Scholarship" of Beihang University
 - *2022.12* "Excellent graduate student" of Beihang University (**<font color="#C00000">Top 5%</font>**)
 - *2022.09* First Prize of "Academic Scholarship for Postgraduates", Beihang University (**<font color="#C00000">Top 5%</font>**)
 - *2021.06* "Outstanding Graduates" of Beihang University
