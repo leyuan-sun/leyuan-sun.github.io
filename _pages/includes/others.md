@@ -5,6 +5,7 @@
   
 # 💻 Academic Service
 - Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- Reviewer for International Journal of Digital Earth
 - ...
 
 
