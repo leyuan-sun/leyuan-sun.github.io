@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BIFA.png"><img src='images/BIFA.png' alt="RSPrompter" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BIFA.png"><img src='images/BIFA.png' alt="BIFA" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10471555"><b>BiFA: Remote Sensing Image Change Detection with Bitemporal Feature Alignment</b></a> \\
