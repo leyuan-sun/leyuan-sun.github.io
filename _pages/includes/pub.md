@@ -1,5 +1,16 @@
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSCaMa.png"><img src='images/RSCaMa.png' alt="RSCaMa" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
+ *Under review* \\
+<b>Chenyang Liu</b>, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi \\
+[<a href="https://arxiv.org/abs/2404.18895">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Change_Agent.png"><img src='images/Change_Agent.png' alt="Change_Agent" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
