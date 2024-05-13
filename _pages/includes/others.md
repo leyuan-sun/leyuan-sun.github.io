@@ -4,7 +4,7 @@
 
   
 # 💻 Academic Service
-Reviewer
+Reviewer:
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - International Journal of Digital Earth
 - Neurocomputing
