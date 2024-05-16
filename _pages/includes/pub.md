@@ -5,7 +5,7 @@
 
 <a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
  *Under review* \\
-<b>Chenyang Liu</b>, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi \\
+**<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2404.18895">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>]
 
 </div>
@@ -16,7 +16,7 @@
 
 <a class=PaperTitle href="https://arxiv.org/abs/2403.19646"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
  *Under review* \\
-<b>Chenyang Liu</b>, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
+**<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>]
 
 </div>
@@ -27,7 +27,7 @@
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10521633"><b>Digital-to-Physical Visual Consistency Optimization for Adversarial Patch Generation in Remote Sensing Scenes</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
-Jianqi Chen; Yilan Zhang; <b>Chenyang Liu</b>; Keyan Chen; Zhengxia Zou; Zhenwei Shi  \\
+Jianqi Chen, Yilan Zhang, **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Zhengxia Zou, Zhenwei Shi  \\
 [<a href="https://ieeexplore.ieee.org/document/10521633">PDF</a>] [<a href="https://github.com/WindVChen/VCO-AP">Code</a>]
 
 </div>
@@ -38,7 +38,7 @@ Jianqi Chen; Yilan Zhang; <b>Chenyang Liu</b>; Keyan Chen; Zhengxia Zou; Zhenwei
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10471555"><b>BiFA: Remote Sensing Image Change Detection with Bitemporal Feature Alignment</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
-Haotian Zhang; Hao Chen; Chenyao Zhou; Keyan Chen; <b>Chenyang Liu</b>; Zhengxia Zou; Zhenwei Shi  \\
+Haotian Zhang, Hao Chen, Chenyao Zhou, Keyan Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhengxia Zou, Zhenwei Shi  \\
 [<a href="https://ieeexplore.ieee.org/document/10471555">PDF</a>] [<a href="https://github.com/zmoka-zht/BiFA">Code</a>]
 
 </div>
@@ -49,7 +49,7 @@ Haotian Zhang; Hao Chen; Chenyao Zhou; Keyan Chen; <b>Chenyang Liu</b>; Zhengxia
 
 <a class=PaperTitle href="https://arxiv.org/abs/2306.16269"><b>RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
-Keyan Chen, <b>Chenyang Liu</b>, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi  \\
+Keyan Chen, **<font color="#C00000">Chenyang Liu</font>**, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi  \\
 [<a href="https://arxiv.org/abs/2306.16269">PDF</a>] [<a href="https://kyanchen.github.io/RSPrompter/">Page</a>] [<a href="https://github.com/KyanChen/RSPrompter">Code</a>] [<a href="https://huggingface.co/spaces/KyanChen/RSPrompter">Demo</a>]
 
 </div>
@@ -60,7 +60,7 @@ Keyan Chen, <b>Chenyang Liu</b>, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Z
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10271701"><b>A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
-<b>Chenyang Liu</b>, Rui Zhao, Jianqi Chen, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi  \\
+**<font color="#C00000">Chenyang Liu</font>**, Rui Zhao, Jianqi Chen, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi  \\
 [<a href="https://ieeexplore.ieee.org/document/10271701">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/PromptCC">Page</a>]
 
 </div>
@@ -71,7 +71,7 @@ Keyan Chen, <b>Chenyang Liu</b>, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Z
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10149540"><b>Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
-Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
+Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi, and Zhengxia Zou \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10149540">PDF</a>] [<a href="https://qizipeng.github.io/IRT/">Page</a>]
 
 </div>
@@ -83,7 +83,7 @@ Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
 
 <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10283451"><b>Progressive Scale-aware Network for Remote sensing Image Change Captioning</b></a> \\
  *International Geoscience and Remote Sensing Symposium (IGARSS), 2023* \\
-<b>Chenyang Liu</b>, Jiajun Yang, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi \\
+**<font color="#C00000">Chenyang Liu</font>**, Jiajun Yang, Zipeng Qi, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://ieeexplore.ieee.org/document/10283451">PDF</a>]
 
 </div>
@@ -95,7 +95,7 @@ Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
 
 <a class=PaperTitle href="http://levir.buaa.edu.cn/publications/ChangeCaptioning.pdf"><b>Remote Sensing Image Change Captioning With Dual-Branch Transformers: A New Method and a Large Scale Dataset</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \\
-<b>Chenyang Liu</b>, Rui Zhao, Hao Chen, Zhengxia Zou, and Zhenwei Shi \\
+**<font color="#C00000">Chenyang Liu</font>**, Rui Zhao, Hao Chen, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://levir.buaa.edu.cn/publications/ChangeCaptioning.pdf">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSICC">Dataset</a>] [<a href="https://github.com/Chen-Yang-Liu/RSICC">Code</a>] 
 
 </div>
@@ -106,7 +106,7 @@ Zipeng Qi, Hao Chen, <b>Chenyang Liu</b>, Zhenwei Shi, and Zhengxia Zou \\
 
 <a class=PaperTitle href="http://levir.buaa.edu.cn/publications/Captioning-Based-on-Multilayer-Aggregated-Transformer.pdf"><b>Remote Sensing Image Captioning Based on Multi-Layer Aggregated Transformer</b></a> \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2022* \\
-<b>Chenyang Liu</b>, Rui Zhao, and Zhenwei Shi \\
+**<font color="#C00000">Chenyang Liu</font>**, Rui Zhao, and Zhenwei Shi \\
 [<a href="http://levir.buaa.edu.cn/publications/Captioning-Based-on-Multilayer-Aggregated-Transformer.pdf">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/MLAT">Code</a>]
 
 </div>
