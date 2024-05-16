@@ -22,6 +22,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Attack.gif"><img src='images/Attack.gif' alt="Attack" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10521633"><b>Digital-to-Physical Visual Consistency Optimization for Adversarial Patch Generation in Remote Sensing Scenes</b></a> \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
+Jianqi Chen; Yilan Zhang; <b>Chenyang Liu</b>; Keyan Chen; Zhengxia Zou; Zhenwei Shi  \\
+[<a href="https://ieeexplore.ieee.org/document/10521633">PDF</a>] [<a href="https://github.com/WindVChen/VCO-AP">Code</a>]
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BIFA.png"><img src='images/BIFA.png' alt="BIFA" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
