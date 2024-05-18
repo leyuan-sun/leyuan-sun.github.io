@@ -8,6 +8,7 @@ Reviewer:
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - International Journal of Digital Earth
 - Neurocomputing
+- International Journal of Machine Learning and Cybernetics
 - Journal of Supercomputing
 - ...
 
