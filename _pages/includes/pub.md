@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
- *Under review* \\
+ *IEEE Geoscience and Remote Sensing Letters (GRSL), 2024* \\
 **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2404.18895">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>]
 
