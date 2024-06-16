@@ -9,7 +9,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
  *Under review, 2024* \\
 Zhiping Yu, **<font color="#C00000">Chenyang Liu</font>**, Liqin Liu, Zhenwei Shi, Zhengxia Zou \\
 [<a href="https://arxiv.org/abs/2405.13570">PDF</a>] \\
-Media report: <a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把整个地球装进神经网络，北航团队推出全球遥感图像生成模型</a> -- <a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">量子位</a> | <a href="https://mp.weixin.qq.com/s/JrFUIR2rLxJFMst7JXL3Mw">中国图象图形学学会CSIG</a> | <a href="https://mp.weixin.qq.com/s/K-SrPA5vRUiuXUN3ZxOALA">惠天地</a> | <a href="https://mp.weixin.qq.com/s/Dn51xNhfM6e5JKO2XWq6ag">CVer</a>
+Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把整个地球装进神经网络，北航团队推出全球遥感图像生成模型</a>] -- <a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">量子位</a> | <a href="https://mp.weixin.qq.com/s/JrFUIR2rLxJFMst7JXL3Mw">中国图象图形学学会CSIG</a> | <a href="https://mp.weixin.qq.com/s/K-SrPA5vRUiuXUN3ZxOALA">惠天地</a> | <a href="https://mp.weixin.qq.com/s/Dn51xNhfM6e5JKO2XWq6ag">CVer</a>
 
 </div>
 </div>
