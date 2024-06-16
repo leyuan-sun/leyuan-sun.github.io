@@ -2,6 +2,18 @@
 # 📝 Publications 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=jBnA45cAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
                                                                                                    
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/MetaEarth.png"><img src='images/MetaEarth.png' alt="MetaEarth" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2405.13570"><b>MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation</b></a> \\
+ *Under review, 2024* \\
+Zhiping Yu, **<font color="#C00000">Chenyang Liu</font>**, Liqin Liu, Zhenwei Shi, Zhengxia Zou \\
+[<a href="https://arxiv.org/abs/2405.13570">PDF</a>]
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSCaMa.png"><img src='images/RSCaMa.png' alt="RSCaMa" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,16 +47,6 @@ Jianqi Chen, Yilan Zhang, **<font color="#C00000">Chenyang Liu</font>**, Keyan C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BIFA.png"><img src='images/BIFA.png' alt="BIFA" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10471555"><b>BiFA: Remote Sensing Image Change Detection with Bitemporal Feature Alignment</b></a> \\
- *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
-Haotian Zhang, Hao Chen, Chenyao Zhou, Keyan Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhengxia Zou, Zhenwei Shi  \\
-[<a href="https://ieeexplore.ieee.org/document/10471555">PDF</a>] [<a href="https://github.com/zmoka-zht/BiFA">Code</a>]
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSPrompter.png"><img src='images/RSPrompter.png' alt="RSPrompter" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
