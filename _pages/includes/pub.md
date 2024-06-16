@@ -29,10 +29,13 @@ Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把�
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Change_Agent.png"><img src='images/Change_Agent.png' alt="Change_Agent" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 <a class=PaperTitle href="https://arxiv.org/abs/2403.19646"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
  *Under review* \\
 **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>]
+[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
+Media report: [<a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">Change-Agent：可交互的遥感变化解译智能体</a>] -- <a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">遥感与深度学习</a> | <a href="https://mp.weixin.qq.com/s/-iaJjsaEsKr7lkMDEmANVw">我爱计算机视觉</a> | <a href="https://mp.weixin.qq.com/s/aQZTt02obm3MfOtLBAmPTQ"> AIWalker</a> | <a href="https://www.douyin.com/video/7353211020686396713">抖音</a>
+
 
 </div>
 </div>
