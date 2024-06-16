@@ -21,7 +21,8 @@ Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把�
 <a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2024* \\
 **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>]
+[<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>] \\
+Media report: [<a href="https://mp.weixin.qq.com/s/KFR5kLAoitnvVxD7klmizw">RSCaMa 基于状态空间模型的遥感图像变化描述</a>] -- <a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">CV看交通</a> | <a href="https://mp.weixin.qq.com/s/EznAxqSw3eBh68IbP-_P9w">GISer阿兴</a>
 
 </div>
 </div>
@@ -35,7 +36,6 @@ Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把�
 **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
 Media report: [<a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">Change-Agent：可交互的遥感变化解译智能体</a>] -- <a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">遥感与深度学习</a> | <a href="https://mp.weixin.qq.com/s/-iaJjsaEsKr7lkMDEmANVw">我爱计算机视觉</a> | <a href="https://mp.weixin.qq.com/s/aQZTt02obm3MfOtLBAmPTQ"> AIWalker</a> | <a href="https://www.douyin.com/video/7353211020686396713">抖音</a>
-
 
 </div>
 </div>
