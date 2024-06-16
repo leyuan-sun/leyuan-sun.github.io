@@ -8,7 +8,8 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <a class=PaperTitle href="https://arxiv.org/abs/2405.13570"><b>MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation</b></a> \\
  *Under review, 2024* \\
 Zhiping Yu, **<font color="#C00000">Chenyang Liu</font>**, Liqin Liu, Zhenwei Shi, Zhengxia Zou \\
-[<a href="https://arxiv.org/abs/2405.13570">PDF</a>]
+[<a href="https://arxiv.org/abs/2405.13570">PDF</a>] \\
+Media coverage: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">量子位|把整个地球装进神经网络，北航团队推出全球遥感图像生成模型</a>] 
 
 </div>
 </div>
