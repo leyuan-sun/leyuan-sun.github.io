@@ -9,7 +9,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
  *Under review, 2024* \\
 Zhiping Yu, **<font color="#C00000">Chenyang Liu</font>**, Liqin Liu, Zhenwei Shi, Zhengxia Zou \\
 [<a href="https://arxiv.org/abs/2405.13570">PDF</a>] \\
-Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把整个地球装进神经网络，北航团队推出全球遥感图像生成模型</a>] -- <a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">量子位</a> | <a href="https://mp.weixin.qq.com/s/JrFUIR2rLxJFMst7JXL3Mw">中国图象图形学学会CSIG</a> | <a href="https://mp.weixin.qq.com/s/Dn51xNhfM6e5JKO2XWq6ag">CVer</a> | <a href="https://mp.weixin.qq.com/s/K-SrPA5vRUiuXUN3ZxOALA">惠天地</a> | <a href="https://mp.weixin.qq.com/s/XnkyDefw7SpZmySdaIczag">深圳市人工智能产业协会</a>
+Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把整个地球装进神经网络，北航团队推出全球遥感图像生成模型</a>] -- <a href="https://www.nsfc.gov.cn/publish/portal0/tab448/info92986.htm">国家自然科学基金委</a> | <a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">量子位</a> | <a href="https://mp.weixin.qq.com/s/JrFUIR2rLxJFMst7JXL3Mw">中国图象图形学学会CSIG</a> | <a href="https://mp.weixin.qq.com/s/Dn51xNhfM6e5JKO2XWq6ag">CVer</a> | <a href="https://mp.weixin.qq.com/s/K-SrPA5vRUiuXUN3ZxOALA">惠天地</a> | <a href="https://mp.weixin.qq.com/s/XnkyDefw7SpZmySdaIczag">深圳市人工智能产业协会</a>
 
 </div>
 </div>
@@ -18,7 +18,7 @@ Media report: [<a href="https://mp.weixin.qq.com/s/IEe-tj4B0QWk6hX_fI-UHA">把�
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSCaMa.png"><img src='images/RSCaMa.png' alt="RSCaMa" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10537177"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2024* \\
 **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>] \\
@@ -31,10 +31,10 @@ Media report: [<a href="https://mp.weixin.qq.com/s/EznAxqSw3eBh68IbP-_P9w">RSCaM
 <div class='paper-box-text' markdown="1">
 
 
-<a class=PaperTitle href="https://arxiv.org/abs/2403.19646"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
- *Under review* \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10591792"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
 **<font color="#C00000">Chenyang Liu</font>**, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
+[<a href="https://ieeexplore.ieee.org/document/10591792">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
 Media report: [<a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">Change-Agent：可交互的遥感变化解译智能体</a>] -- <a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">遥感与深度学习</a> | <a href="https://mp.weixin.qq.com/s/-iaJjsaEsKr7lkMDEmANVw">我爱计算机视觉</a> | <a href="https://mp.weixin.qq.com/s/aQZTt02obm3MfOtLBAmPTQ"> AIWalker</a> | <a href="https://www.douyin.com/video/7353211020686396713">抖音</a>
 
 </div>
