@@ -13,6 +13,7 @@ Reviewer:
 - International Journal of Digital Earth (IJDE)
 - International Journal of Machine Learning and Cybernetics
 - Journal of Supercomputing
+- Applied Geomatics
 - ...
 
 
