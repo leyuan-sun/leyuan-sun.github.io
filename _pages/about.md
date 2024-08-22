@@ -23,6 +23,8 @@ redirect_from:
 
 <br>
 
-<center>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6c-URZho7NNzq18AMnSMO1P-dpZAABAwsvBT53v-o5A&w=a&cl=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-</center>
+<left>
+<div  id="clustrmaps-widget" style="width: 200px; height: 200px;">
+    <<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=c6DO7CV6E6nu4ltqsxYpTArSiZKEu3lNNXwYLtNpj5s"></script>
+</div>
+</left>
