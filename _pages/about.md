@@ -25,6 +25,6 @@ redirect_from:
 
 <left>
 <div  id="clustrmaps-widget" style="width: 200px; height: 200px;">
-    <<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=c6DO7CV6E6nu4ltqsxYpTArSiZKEu3lNNXwYLtNpj5s"></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=c6DO7CV6E6nu4ltqsxYpTArSiZKEu3lNNXwYLtNpj5s"></script>
 </div>
 </left>
