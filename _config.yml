@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenyang Liu (刘辰阳)"
-description              : "Ph.D. Student, Beihang University."
-repository               : "Chen-Yang-Liu/Chen-Yang-Liu.github.io"
+title                    : "Leyuan Sun (孙乐源)"
+description              : "Ph.D. in Engineering, University of Tsukuba, Tsukuba, Japan."
+repository               : "leyuan-sun/leyuan-sun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Chenyang Liu <br /> (刘辰阳)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "LEVIR Group"
-  location         : "Beijing"
-  employer         :
+  name             : "孙乐源 <br> Leyuan Sun"
+  avatar           : "images/tsukuba.jpg"
+  bio              : "Postdoc researcher @産総研"
+  location         : "Tsukuba, Japan"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=jBnA45cAAAAJ"
-  email            : "liuchenyang@buaa.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=i5YUH14AAAAJ&hl=zh-CN"
+  email            : "leyuansun@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Leyuan-Sun-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Chen-Yang-Liu"
+  github           : "leyuan-sun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"rayeren"
+  linkedin         : "leyuansun22"
   dblp             : #"https://dblp.org/pid/86/10143.html"
-  orcid            : "https://orcid.org/0000-0003-3034-6646"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6123-9339"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
