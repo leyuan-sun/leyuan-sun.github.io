@@ -12,13 +12,19 @@
 
 # 💻 Academic Service
 Reviewer:
-- IEEE Robotics and Automation Letters (中科院二区Top, JCR Q1)
-- IEEE Sensors Journal (中科院二区Top, JCR Q1)
-- Advanced Engineering Informatics (中科院一区Top, CCF-B, JCR Q1)
-- Measurement (中科院二区Top, JCR Q1)
-- Advanced Robotics (JCR Q2)
-- International Conference on Robotics and Automation (ICRA, CCF-B)
+- IEEE Transactions on Circuits and Systems for Video Technology
+- Advanced Engineering Informatics
+- IEEE Robotics and Automation Letters (RA-L)
+- Robotics and Autonomous Systems
+- IEEE Sensors Journal
+- Measurement
+- Expert Systems with Applications
+- Scientific Reports 
+- Multimedia Systems
+- Advanced Robotics
 - Winter Conference on Applications of Computer Vision (WACV)
+- The International Conference on Robotics and Automation (ICRA)
+- The International Conference on Intelligent Robots and Systems (IROS) 
 - ...
 
 # 🏠 Family Members
