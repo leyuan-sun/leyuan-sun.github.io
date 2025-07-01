@@ -92,98 +92,10 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 <div class='paper-box-text' markdown="1">
 
 
-<a class=PaperTitle href="https://arxiv.org/abs/2403.14163"><b>Enhancing Multimodal-Input Object Goal Navigation by Leveraging Large Language Models for Inferring Room-Object Relationship Knowledge
+``ADVEI, CCF-B, 中科院一区TOP, JCR Q1, IF:9.9`` <a class=PaperTitle href="https://arxiv.org/abs/2403.14163"><b>Enhancing Multimodal-Input Object Goal Navigation by Leveraging Large Language Models for Inferring Room-Object Relationship Knowledge
 </b></a> \\
-*Under review* \\
 **<font color="#000000">Leyuan Sun*</font>**, [Asako Kanezaki](https://kanezaki.github.io/index_jp.html), [Guillaume Caron](https://home.mis.u-picardie.fr/~g-caron/fr/), and Yusuke Yoshiyasu\\
-[<a href="https://arxiv.org/abs/2403.14163">PDF</a>] [<a href="https://sunleyuan.github.io/ObjectNav/">**<font color="#C00000">Project page</font>**</a>]
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/ECCV.gif"><img src='images/ECCV.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://eccv2024.ecva.net/"><b>DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose
-</b></a> \\
-*The 18th European Conference on Computer Vision ECCV 2024, Milano, Italy, (CCF-B)* \\
-Yusuke Yoshiyasu* and **<font color="#000000">Leyuan Sun</font>** \\
-[<a href="https://eccv2024.ecva.net/">PDF</a>] [<a href="https://github.com/yusukey03012">Code</a>] 
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/ana.gif"><img src='images/ana.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://link.springer.com/article/10.1007/s12369-023-01096-9"><b>A Cybernetic Avatar System to Embody Human Telepresence for Connectivity, Exploration, and Skill Transfer</b></a> \\
-*International Journal of Social Robotics, 2024 (SCI收录，中科院二区，JCR Q1)* \\
-Rafael Cisneros-Limón*, Antonin Dallard, Mehdi Benallegue, Kenji Kaneko, Hiroshi Kaminaga, Pierre Gergondet, Arnaud Tanguy, Rohan Pratap Singh, **<font color="#000000">Leyuan Sun</font>**, Yang Chen, Carole Fournier, Guillaume Lorthioir, Masato Tsuru, Sélim Chefchaouni-Moussaoui, Yukiko Osawa, Guillaume Caron, Kevin Chappellet, Mitsuharu Morisawa, Adrien Escande, Ko Ayusawa, Younes Houhou, Iori Kumagai, Michio Ono, Koji Shirasaka, Shiryu Wada, Hiroshi Wada, Fumio Kanehiro and Abderrahmane Kheddar\\
-[<a href="papers/IJSR.pdf">PDF</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/team-janus.html">**<font color="#C00000">ANA Avatar XPRIZE team web</font>**</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/project-janus.html">**<font color="#C00000">Project page</font>**</a>] 
-
-</div>
-</div>
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/sensors.gif"><img src='images/sensors.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10214516"><b>TransFusionOdom: Transformer-Based LiDAR-Inertial Fusion Odometry Estimation</b></a> \\
-*IEEE Sensors Journal, vol. 23, no. 18, pp. 22064-22079, 2023, (SCI收录，中科院二区TOP，JCR Q1)* \\
-**<font color="#000000">Leyuan Sun*</font>**, [Guanqun Ding](https://github.com/gqding), [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/), Y. Yoshiyasu and F. Kanehiro \\
-[<a href="papers/sensors.pdf">PDF</a>] [<a href="https://github.com/RakugenSon/Multi-modal-dataset-for-odometry-estimation">Dataset</a>] 
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/ICRA.gif"><img src='images/ICRA.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf"><b>Enhancement of Team JANUS’ cybernetic avatar system for exploration and skill transfer</b></a> \\
-*ICRA 2023 Workshop on "2nd Workshop Toward Robot Avatars", London, (CCF-B)* \\
-R. Cisneros*, A. Dallard, M. Benallegue, K. Kaneko, H. Kaminaga, P. Gergondet, A. Tanguy, C. Fournier, R. Singh, Y. Chen, S. Chefchaouni-Moussaoui, G. Lorthioir, Y. Osawa, M. Tsuru, **<font color="#000000">Leyuan Sun</font>**, M. Morisawa, G. Caron, M. Ono, K. Shirasaka, S. Wada, H. Wada, F. Kanehiro and A. Kheddar\\
-[<a href="papers/ICRA.pdf">PDF</a>] [<a href="https://youtube.com/watch?v=CaOOoSqWjCo">Youtube full demo</a>] [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/">Workshop page</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/team-janus.html">**<font color="#C00000">ANA Avatar XPRIZE team web</font>**</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/project-janus.html">**<font color="#C00000">Project page</font>**</a>] 
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/robio.gif"><img src='images/robio.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10011808"><b>CertainOdom: Uncertainty Weighted Multi-task Learning Model for LiDAR Odometry Estimation</b></a> \\
- *2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), Jinghong, China, (EI收录)* \\
-**<font color="#000000">Leyuan Sun*</font>**, [Guanqun Ding](https://github.com/gqding), Y. Yoshiyasu and F. Kanehiro \\
-[<a href="papers/RSS.pdf">PDF</a>] [<a href="https://www.sie.tsukuba.ac.jp/news_award/2022/12/12/9032">**<font color="#C00000">Best Conference Paper Award</font>**</a>] 
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/RSS.gif"><img src='images/RSS.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/papers/Cisneros_RSS2022-Workshop.pdf"><b>Avatar system of Team JANUS: A cybernetic avatar to transport human presence to remote locations</b></a> \\
- *“Toward Robot Avatars: Perspectives on the ANA Avatar XPRIZE Competition", New York City, USA, RSS 2022 Workshop* \\
-R. Cisneros*, M. Benallegue, K. Kaneko, H. Kaminaga, G. Caron, A. Tanguy, R. Singh,  **<font color="#000000">Leyuan Sun</font>**, A. Dallard, C. Fournier, M. Tsuru, C. Yang, Y. Osawa, G. Lorthioir, F. Kanehiro and A. Kheddar \\
-[<a href="papers/RSS.pdf">PDF</a>] [<a href="https://www.youtube.com/watch?v=GnGmWgzANWU">Youtube full demo</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/team-janus.html">**<font color="#C00000">ANA Avatar XPRIZE team web</font>**</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/project-janus.html">**<font color="#C00000">Project page</font>**</a>] 
+[<a href="https://www.sciencedirect.com/science/article/pii/S147403462500028X">PDF</a>] [<a href="https://sunleyuan.github.io/ObjectNav/">**<font color="#C00000">Project page</font>**</a>]
 
 
 </div>
@@ -193,37 +105,9 @@ R. Cisneros*, M. Benallegue, K. Kaneko, H. Kaminaga, G. Caron, A. Tanguy, R. Sin
 <div class='paper-box-text' markdown="1">
 
 
-<a class=PaperTitle href="https://ieeexplore.ieee.org/document/9999740"><b>Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM</b></a> \\
- *2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids), Ginowan, Japan, (EI收录)* \\
+``IEEE Humanoids 2022`` <a class=PaperTitle href="https://ieeexplore.ieee.org/document/9999740"><b>Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM</b></a> \\
 Yang Chen*, **<font color="#000000">Leyuan Sun* (equal contribution)</font>**, Mehdi Benallegue, Rafael Cisneros Limon, Rohan Pratap Singh, Kenji Kaneko, Arnaud TANGUY, Guillaume Caron, Kenji Suzuki, Abderrahmane Kheddar and Fumio Kanehiro \\
 [<a href="papers/humanoids.pdf">PDF</a>] [<a href="https://www.youtube.com/watch?v=Jdiaosp_qH8">Youtube full demo</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/team-janus.html">**<font color="#C00000">ANA Avatar XPRIZE team web</font>**</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/project-janus.html">**<font color="#C00000">Project page</font>**</a>] 
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/semantic_mapping.gif"><img src='images/semantic_mapping.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://www.fujipress.jp/jrm/rb/robot003300061385/"><b>Visual SLAM Framework Based on Segmentation with the Improvement of Loop Closure Detection in Dynamic Environments</b></a> \\
- *Journal of Robotics and Mechatronics, vol.33 no.6, 2021, (EI期刊)* \\
-**<font color="#000000">Leyuan Sun*</font>**, Rohan P. Singh, and Fumio Kanehiro \\
-[<a href="papers/JRM.pdf">PDF</a>]
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/SII.png"><img src='images/SII.png' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<a class=PaperTitle href="https://ieeexplore.ieee.org/document/9026299"><b>Multi-purpose SLAM framework for Dynamic Environment</b></a> \\
- *2020 IEEE/SICE International Symposium on System Integration (SII), Hawaii, USA, (EI收录)* \\
-**<font color="#000000">Leyuan Sun*</font>**,  F. Kanehiro, I. Kumagai and Y. Yoshiyasu \\
-[<a href="papers/SII.pdf">PDF</a>]
 
 
 </div>
@@ -233,28 +117,45 @@ Yang Chen*, **<font color="#000000">Leyuan Sun* (equal contribution)</font>**, M
 <div class='paper-box-text' markdown="1">
 
 
-<a class=PaperTitle href="https://www.rsj.or.jp/info/awards/category/ins/#:~:text=Leyuan%20Sun%20(University%20of%20Tsukuba%2C%20AIST)%0ARobust%20SLAM%20in%20Dynamic%20Environment%20based%20on%20Object%27s%20Mask%0A37th%20RSJ2019"><b>Robust SLAM in Dynamic Environment based on Object’s Mask</b></a> \\
- *the 37th Annual Conference of the Robotics Society of Japan (RSJ2019)* \\
+``RSJ 2019`` <a class=PaperTitle href="https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201902249269087612&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%5C%22201950000570683855%5C%22%22%7D"><b>Robust SLAM in Dynamic Environment based on Object’s Mask</b></a> \\
 **<font color="#000000">Leyuan Sun*</font>**, and Fumio Kanehiro \\
-[<a href="papers/RSJ.pdf">PDF</a>] [<a href="https://www.rsj.or.jp/info/awards/category/ins/#:~:text=Leyuan%20Sun%20(University%20of%20Tsukuba%2C%20AIST)%0ARobust%20SLAM%20in%20Dynamic%20Environment%20based%20on%20Object%27s%20Mask%0A37th%20RSJ2019">**<font color="#C00000">International Session Best Presentation Award Finalist</font>**</a>]
+[<a href="https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=201902249269087612&rel=1#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%5C%22201950000570683855%5C%22%22%7D">PDF</a>] [<a href="https://www.rsj.or.jp/info/awards/category/ins/#:~:text=Leyuan%20Sun%20(University%20of%20Tsukuba%2C%20AIST)%0ARobust%20SLAM%20in%20Dynamic%20Environment%20based%20on%20Object%27s%20Mask%0A37th%20RSJ2019">**<font color="#C00000">International Session Best Presentation Award Finalist</font>**</a>]
 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/robomech.gif"><img src='images/robomech.gif' alt="PSNet" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
+
+- ``PR, CCF-B, 中科院一区TOP, JCR Q1, IF:7.6`` [MPM-Net: Multi-task interactive network with progressive multi-granularity learning for herbal medicine recognition](https://www.sciencedirect.com/science/article/pii/S003132032500528X), Kaiwen Yang, Guanqun Ding, **<font color="#000000">Leyuan Sun</font>**, Jingzhong Chen, Guangying Du, Quan Zheng, Tao Zhang. [<a href="https://www.sciencedirect.com/science/article/pii/S003132032500528X">PDF</a>] 
+
+- ``IMAVIS, CCF-C, 中科院三区, JCR Q1, IF:4.2`` [Memory-MambaNav: Enhancing Object-Goal Navigation through Integration of Spatial-Temporal Scanning with State Space Models](https://www.sciencedirect.com/science/article/pii/S0262885625001106), **<font color="#000000">Leyuan Sun*</font>**, Yusuke Yoshiyasu. [<a href="https://www.sciencedirect.com/science/article/pii/S0262885625001106">PDF</a>] [<a href="https://sunleyuan.github.io/Memory-MambaNav/">**<font color="#C00000">Project page</font>**</a>]
 
 
-<a class=PaperTitle href="https://www.jstage.jst.go.jp/article/jsmermd/2019/0/2019_2A1-R07/_article/-char/en"><b>Robust SLAM based on Segmentation of Dynamic Object’s Point Cloud</b></a> \\
-*JSME annual Conference on Robotics and Mechatronics (Robomec)*, 2019 \\
-*DOI: [https://doi.org/10.1299/jsmermd.2019.2A1-R07](https://doi.org/10.1299/jsmermd.2019.2A1-R07)*\\
-**<font color="#000000">Leyuan Sun*</font>**, and Fumio Kanehiro \\
-[<a href="papers/robomech.pdf">PDF</a>]
+- ``ECCV 2024, CCF-B`` [DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10778.pdf), Yusuke Yoshiyasu, **<font color="#000000">Leyuan Sun</font>**. [<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10778.pdf">PDF</a>] 
+
+- ``SORO, 中科院二区, JCR Q1, IF:3.7`` [A Cybernetic Avatar System to Embody Human Telepresence for Connectivity, Exploration, and Skill Transfer](https://link.springer.com/article/10.1007/s12369-023-01096-9), Rafael Cisneros-Limón, Antonin Dallard, Mehdi Benallegue, Kenji Kaneko, Hiroshi Kaminaga, Pierre Gergondet, Arnaud Tanguy, Rohan Pratap Singh, **<font color="#000000">Leyuan Sun</font>**, Yang Chen, Carole Fournier, Guillaume Lorthioir, Masato Tsuru, Sélim Chefchaouni-Moussaoui, Yukiko Osawa, Guillaume Caron, Kevin Chappellet, Mitsuharu Morisawa, Adrien Escande, Ko Ayusawa, Younes Houhou, Iori Kumagai, Michio Ono, Koji Shirasaka, Shiryu Wada, Hiroshi Wada, Fumio Kanehiro and Abderrahmane Kheddar. [<a href="https://link.springer.com/article/10.1007/s12369-023-01096-9">PDF</a>] [<a href="https://www.youtube.com/watch?v=CaOOoSqWjCo">**<font color="#C00000">Youtube Video</font>**</a>]
 
 
-</div>
-</div>
+- ``IEEE Sensors, 中科院二区TOP, JCR Q1, IF:4.3`` [TransFusionOdom: Transformer-Based LiDAR-Inertial Fusion Odometry Estimation](https://ieeexplore.ieee.org/document/10214516), **<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/), Y. Yoshiyasu and F. Kanehiro. [<a href="https://ieeexplore.ieee.org/document/10214516">PDF</a>] [<a href="https://github.com/RakugenSon/Multi-modal-dataset-for-odometry-estimation">**<font color="#C00000">Datasets</font>**</a>]
+
+
+- ``ICRA 2023 WS`` [Enhancement of Team JANUS’ cybernetic avatar system for exploration and skill transfer](https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf), R. Cisneros*, A. Dallard, M. Benallegue, K. Kaneko, H. Kaminaga, P. Gergondet, A. Tanguy, C. Fournier, R. Singh, Y. Chen, S. Chefchaouni-Moussaoui, G. Lorthioir, Y. Osawa, M. Tsuru, **<font color="#000000">Leyuan Sun</font>**, M. Morisawa, G. Caron, M. Ono, K. Shirasaka, S. Wada, H. Wada, F. Kanehiro and A. Kheddar. [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf">PDF</a>] [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/">Workshop page</a>] 
+
+- ``IEEE ROBIO 2022`` [CertainOdom: Uncertainty Weighted Multi-task Learning Model for LiDAR Odometry Estimation](https://ieeexplore.ieee.org/document/10011808), **<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, Y. Yoshiyasu and F. Kanehiro. [<a href="https://ieeexplore.ieee.org/document/10011808">PDF</a>] [<a href="https://www.imis.tsukuba.ac.jp/archives/4788">**<font color="#C00000">Best Conference Paper Award</font>**</a>] 
+
+- ``RSS 2022 WS`` [Avatar system of Team JANUS: A cybernetic avatar to transport human presence to remote locations](https://unit.aist.go.jp/jrl-22022/en/projects/janus/papers/Cisneros_RSS2022-Workshop.pdf), R. Cisneros*, M. Benallegue, K. Kaneko, H. Kaminaga, G. Caron, A. Tanguy, R. Singh,  **<font color="#000000">Leyuan Sun</font>**, A. Dallard, C. Fournier, M. Tsuru, C. Yang, Y. Osawa, G. Lorthioir, F. Kanehiro and A. Kheddar. [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/papers/Cisneros_RSS2022-Workshop.pdf">PDF</a>] [<a href="https://www.youtube.com/watch?v=GnGmWgzANWU">**<font color="#C00000">Youtube Video</font>**</a>]
+
+
+- ``JRM, EI期刊, JCR Q3, IF:0.9`` [Visual SLAM Framework Based on Segmentation with the Improvement of Loop Closure Detection in Dynamic Environments](https://www.fujipress.jp/jrm/rb/robot003300061385/), **<font color="#000000">Leyuan Sun*</font>**, Rohan P. Singh, and Fumio Kanehiro. [<a href="https://www.fujipress.jp/jrm/rb/robot003300061385/">PDF</a>] 
+
+
+- ``IEEE SII 2020`` [Multi-purpose SLAM framework for Dynamic Environment](https://ieeexplore.ieee.org/document/9026299), **<font color="#000000">Leyuan Sun*</font>**,  F. Kanehiro, I. Kumagai and Y. Yoshiyasu. [<a href="https://ieeexplore.ieee.org/document/9026299">PDF</a>] 
+
+
+
+- ``RoboMech 2019`` [Robust SLAM based on Segmentation of Dynamic Object’s Point Cloud](https://www.jstage.jst.go.jp/article/jsmermd/2019/0/2019_2A1-R07/_article/-char/en), **<font color="#000000">Leyuan Sun*</font>**, and Fumio Kanehiro. [<a href="https://www.jstage.jst.go.jp/article/jsmermd/2019/0/2019_2A1-R07/_article/-char/en">PDF</a>] 
+
+
 
 
 
