@@ -125,7 +125,8 @@ Yang Chen*, **<font color="#000000">Leyuan Sun* (equal contribution)</font>**, M
 </div>
 </div>
 
-
+- ``BSPC, 中科院二区, JCR Q1, IF:4.9`` [Tumor segmentation and boundary fusion network via hierarchical cross-correlation learning](https://www.sciencedirect.com/science/article/pii/S1746809425007190), Guanqun Ding, Kaiwen Yang, **<font color="#000000">Leyuan Sun</font>**, Yuming Fang. [<a href="https://www.sciencedirect.com/science/article/pii/S1746809425007190">PDF</a>]
+- 
 - ``PR, CCF-B, 中科院一区TOP, JCR Q1, IF:7.6`` [MPM-Net: Multi-task interactive network with progressive multi-granularity learning for herbal medicine recognition](https://www.sciencedirect.com/science/article/pii/S003132032500528X), Kaiwen Yang, Guanqun Ding, **<font color="#000000">Leyuan Sun</font>**, Jingzhong Chen, Guangying Du, Quan Zheng, Tao Zhang. [<a href="https://www.sciencedirect.com/science/article/pii/S003132032500528X">PDF</a>] 
 
 - ``IMAVIS, CCF-C, 中科院三区, JCR Q1, IF:4.2`` [Memory-MambaNav: Enhancing Object-Goal Navigation through Integration of Spatial-Temporal Scanning with State Space Models](https://www.sciencedirect.com/science/article/pii/S0262885625001106), **<font color="#000000">Leyuan Sun*</font>**, Yusuke Yoshiyasu. [<a href="https://www.sciencedirect.com/science/article/pii/S0262885625001106">PDF</a>] [<a href="https://sunleyuan.github.io/Memory-MambaNav/">**<font color="#C00000">Project page</font>**</a>]
