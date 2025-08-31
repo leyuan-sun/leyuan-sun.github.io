@@ -125,6 +125,8 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 </div>
 </div>
 
+- ``ICCV 2025, CCF-A`` [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://iccv.thecvf.com/virtual/2025/poster/1694), Yusuke Yoshiyasu, **<font color="#000000">Leyuan Sun</font>**, Ryusuke Sagawa. [<a href="[https://www.sciencedirect.com/science/article/pii/S1746809425007190](https://arxiv.org/pdf/2507.15212?)">PDF</a>]
+
 - ``BSPC, 中科院二区, JCR Q1, IF:4.9`` [Tumor segmentation and boundary fusion network via hierarchical cross-correlation learning](https://www.sciencedirect.com/science/article/pii/S1746809425007190), Guanqun Ding, Kaiwen Yang, **<font color="#000000">Leyuan Sun</font>**, Yuming Fang. [<a href="https://www.sciencedirect.com/science/article/pii/S1746809425007190">PDF</a>]
   
 - ``PR, CCF-B, 中科院一区TOP, JCR Q1, IF:7.6`` [MPM-Net: Multi-task interactive network with progressive multi-granularity learning for herbal medicine recognition](https://www.sciencedirect.com/science/article/pii/S003132032500528X), Kaiwen Yang, Guanqun Ding, **<font color="#000000">Leyuan Sun</font>**, Jingzhong Chen, Guangying Du, Quan Zheng, Tao Zhang. [<a href="https://www.sciencedirect.com/science/article/pii/S003132032500528X">PDF</a>] 
