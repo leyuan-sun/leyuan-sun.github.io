@@ -125,6 +125,8 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 </div>
 </div>
 
+- ``RoboMech 2025`` [PointNoMaD: Diffusion-Based Navigation in Constrained Environments](https://cir.nii.ac.jp/crid/1390869622213850752), Gauvain Robert, **<font color="#000000">Leyuan Sun</font>**, Yusuke Yoshiyasu, Fumio Kanehiro. [<a href="https://www.jstage.jst.go.jp/article/jsmermd/2025/0/2025_2A1-O09/_article/-char/en">PDF</a>] 
+
 - ``ICCV 2025, CCF-A`` [MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction](https://iccv.thecvf.com/virtual/2025/poster/1694), Yusuke Yoshiyasu, **<font color="#000000">Leyuan Sun</font>**, Ryusuke Sagawa. [<a href="[https://www.sciencedirect.com/science/article/pii/S1746809425007190](https://arxiv.org/pdf/2507.15212?)">PDF</a>]
 
 - ``BSPC, 中科院二区, JCR Q1, IF:4.9`` [Tumor segmentation and boundary fusion network via hierarchical cross-correlation learning](https://www.sciencedirect.com/science/article/pii/S1746809425007190), Guanqun Ding, Kaiwen Yang, **<font color="#000000">Leyuan Sun</font>**, Yuming Fang. [<a href="https://www.sciencedirect.com/science/article/pii/S1746809425007190">PDF</a>]
