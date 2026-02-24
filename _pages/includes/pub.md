@@ -107,7 +107,7 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 
 ``IEEE Humanoids 2022`` <a class=PaperTitle href="https://ieeexplore.ieee.org/document/9999740"><b>Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM</b></a> \\
 [Yang Chen*](https://robot-yang.github.io/), **<font color="#000000">Leyuan Sun* (equal contribution)</font>**, Mehdi Benallegue, Rafael Cisneros Limon, Rohan Pratap Singh, Kenji Kaneko, Arnaud TANGUY, Guillaume Caron, Kenji Suzuki, Abderrahmane Kheddar and Fumio Kanehiro \\
-[<a href="papers/humanoids.pdf">PDF</a>] [<a href="https://www.youtube.com/watch?v=Jdiaosp_qH8">Youtube full demo</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/team-janus.html">**<font color="#C00000">ANA Avatar XPRIZE team web</font>**</a>] [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/project-janus.html">**<font color="#C00000">Project page</font>**</a>] 
+[<a href="papers/humanoids.pdf">PDF</a>] [<a href="https://www.youtube.com/watch?v=Jdiaosp_qH8">Youtube full demo</a>] [<a href="https://unit.aist.go.jp/isri/isri-jrl/en/projects/janus/team-janus.html">**<font color="#C00000">ANA Avatar XPRIZE team web</font>**</a>] [<a href="https://unit.aist.go.jp/isri/isri-jrl/en/projects/project-janus.html">**<font color="#C00000">Project page</font>**</a>] 
 
 
 </div>
