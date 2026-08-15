@@ -102,7 +102,7 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 <div class='paper-box-text' markdown="1">
 
 
-``ADVEI, CCF-B, 中科院一区TOP, JCR Q1, IF:9.9`` <a class=PaperTitle href="https://arxiv.org/abs/2403.14163"><b>Enhancing Multimodal-Input Object Goal Navigation by Leveraging Large Language Models for Inferring Room-Object Relationship Knowledge
+``ADVEI, CCF-B, 中科院一区TOP, JCR Q1, IF:11.5`` <a class=PaperTitle href="https://arxiv.org/abs/2403.14163"><b>Enhancing Multimodal-Input Object Goal Navigation by Leveraging Large Language Models for Inferring Room-Object Relationship Knowledge
 </b></a> \\
 **<font color="#000000">Leyuan Sun*</font>**, [Asako Kanezaki](https://kanezaki.github.io/index_jp.html), [Guillaume Caron](https://home.mis.u-picardie.fr/~g-caron/fr/), and Yusuke Yoshiyasu\\
 [<a href="https://www.sciencedirect.com/science/article/pii/S147403462500028X">PDF</a>] [<a href="https://sunleyuan.github.io/ObjectNav/">**<font color="#C00000">Project page</font>**</a>]
