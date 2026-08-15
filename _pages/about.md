@@ -24,8 +24,8 @@ redirect_from:
 <br>
 
 <left>
-<div id="flagcounter-widget" style="width: 200px; max-width: 100%;">
-    <a href="https://info.flagcounter.com/AUVv"><img src="https://s01.flagcounter.com/map/AUVv/size_s/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" style="max-width: 100%; height: auto;" border="0"></a>
+<div id="flagcounter-widget" style="max-width: 100%; padding-bottom: 80px;">
+    <a href="https://s01.flagcounter.com/more/qJAQ"><img src="https://s01.flagcounter.com/map/qJAQ/size_l/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" style="max-width: 100%; height: auto;" border="0"></a>
 </div>
 </left>
 
