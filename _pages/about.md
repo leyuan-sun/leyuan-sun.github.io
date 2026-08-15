@@ -24,7 +24,8 @@ redirect_from:
 <br>
 
 <left>
-<div  id="clustrmaps-widget" style="width: 200px; height: 200px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=c6DO7CV6E6nu4ltqsxYpTArSiZKEu3lNNXwYLtNpj5s"></script>
+<div id="flagcounter-widget" style="width: 200px; max-width: 100%;">
+    <a href="https://info.flagcounter.com/AUVv"><img src="https://s01.flagcounter.com/map/AUVv/size_s/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" style="max-width: 100%; height: auto;" border="0"></a>
 </div>
 </left>
+
