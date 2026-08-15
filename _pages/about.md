@@ -25,7 +25,7 @@ redirect_from:
 
 <left>
 <div id="flagcounter-widget" style="max-width: 100%; padding-bottom: 80px;">
-    <a href="https://s01.flagcounter.com/more/qJAQ"><img src="https://s01.flagcounter.com/map/qJAQ/size_l/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" style="max-width: 100%; height: auto;" border="0"></a>
+    <a href="https://s01.flagcounter.com/more/qJAQ"><img src="https://s01.flagcounter.com/map/qJAQ/size_m/txt_000000/border_FFFFFF/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" style="max-width: 100%; height: auto;" border="0"></a>
 </div>
 </left>
 
