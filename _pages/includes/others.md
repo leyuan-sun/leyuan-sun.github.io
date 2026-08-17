@@ -24,7 +24,8 @@ Reviewer:
 - Advanced Robotics
 - Winter Conference on Applications of Computer Vision (WACV)
 - The International Conference on Robotics and Automation (ICRA)
-- The International Conference on Intelligent Robots and Systems (IROS) 
+- The International Conference on Intelligent Robots and Systems (IROS)
+- The International Conference on Humanoid Robots (Humanoids)
 - ...
 
 # 🏠 Family Members
