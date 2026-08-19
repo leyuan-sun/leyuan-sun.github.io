@@ -135,7 +135,7 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 </div>
 </div>
 
-- ``IEEE TASLPRO, 新锐二区TOP`` LLCE-SQL: Data-Efficient Text-to-SQL Training via Logic-Linking Driven Collaborative Evolution, Yan Zhang, Jin Qi, Wei Xu, Xiaoxuan Hu, Zhenjiang Dong, Genxin Chen, **<font color="#000000">Leyuan Sun</font>**, Yanfei Sun.
+- ``IEEE TASLPRO, 新锐二区TOP`` LLCE-SQL: Data-Efficient Text-to-SQL Training via Logic-Linking Driven Collaborative Evolution, Yan Zhang, Jin Qi, Wei Xu, Xiaoxuan Hu, Zhenjiang Dong, Genxin Chen, **<font color="#000000">Leyuan Sun</font>**, Yanfei Sun. [<a href="https://ieeexplore.ieee.org/document/11656693">IEEE</a>]
 
 - ``RoboMech 2025`` [PointNoMaD: Diffusion-Based Navigation in Constrained Environments](https://cir.nii.ac.jp/crid/1390869622213850752), Gauvain Robert, **<font color="#000000">Leyuan Sun</font>**, Yusuke Yoshiyasu, Fumio Kanehiro. [<a href="https://www.jstage.jst.go.jp/article/jsmermd/2025/0/2025_2A1-O09/_article/-char/en">PDF</a>] 
 
