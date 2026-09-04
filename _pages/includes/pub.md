@@ -92,7 +92,7 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 
 ``IEEE RA-L, 中科院二区, 新锐二区TOP, JCR Q1, IF:5.3`` <span class=PaperTitle><b>Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation</b></span> \\
 **<font color="#000000">Leyuan Sun*</font>**, Genxin Chen, Linwei Ye, Yan Zhang, Xi Kan, and Yanfei Sun \\
-[<a href="https://arxiv.org/abs/2608.13723">arXiv</a>] [<a href="">IEEE</a>] [<a href="">Demo</a>]
+[<a href="https://arxiv.org/abs/2608.13723">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/11676043">IEEE</a>] [<a href="https://ieeexplore.ieee.org/document/11676043">Demo</a>]
 
 
 </div>
