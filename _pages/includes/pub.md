@@ -119,6 +119,16 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TransFusionOdom.gif"><img src='images/TransFusionOdom.gif' alt="TransFusionOdom" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+``IEEE Sensors, 中科院二区TOP, JCR Q1, IF:4.3`` <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10214516"><b>TransFusionOdom: Transformer-Based LiDAR-Inertial Fusion Odometry Estimation</b></a> \\
+**<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/), Y. Yoshiyasu and F. Kanehiro. \\
+[<a href="https://ieeexplore.ieee.org/document/10214516">PDF</a>] [<a href="https://github.com/RakugenSon/Multi-modal-dataset-for-odometry-estimation"><b><font color="#C00000">Dataset sample </font></b></a>]
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/cslam.gif"><img src='images/cslam.gif' alt="PSNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -157,9 +167,6 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 - ``ECCV 2024, CCF-B`` [DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10778.pdf), Yusuke Yoshiyasu, **<font color="#000000">Leyuan Sun</font>**. [<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10778.pdf">PDF</a>] 
 
 - ``SORO, 中科院二区, JCR Q1, IF:3.7`` [A Cybernetic Avatar System to Embody Human Telepresence for Connectivity, Exploration, and Skill Transfer](https://link.springer.com/article/10.1007/s12369-023-01096-9), Rafael Cisneros-Limón, Antonin Dallard, Mehdi Benallegue, Kenji Kaneko, Hiroshi Kaminaga, Pierre Gergondet, Arnaud Tanguy, Rohan Pratap Singh, **<font color="#000000">Leyuan Sun</font>**, Yang Chen, Carole Fournier, Guillaume Lorthioir, Masato Tsuru, Sélim Chefchaouni-Moussaoui, Yukiko Osawa, Guillaume Caron, Kevin Chappellet, Mitsuharu Morisawa, Adrien Escande, Ko Ayusawa, Younes Houhou, Iori Kumagai, Michio Ono, Koji Shirasaka, Shiryu Wada, Hiroshi Wada, Fumio Kanehiro and Abderrahmane Kheddar. [<a href="https://link.springer.com/article/10.1007/s12369-023-01096-9">PDF</a>] [<a href="https://www.youtube.com/watch?v=CaOOoSqWjCo">**<font color="#C00000">Youtube Video</font>**</a>]
-
-
-- ``IEEE Sensors, 中科院二区TOP, JCR Q1, IF:4.3`` [TransFusionOdom: Transformer-Based LiDAR-Inertial Fusion Odometry Estimation](https://ieeexplore.ieee.org/document/10214516), **<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/), Y. Yoshiyasu and F. Kanehiro. [<a href="https://ieeexplore.ieee.org/document/10214516">PDF</a>] [<a href="https://github.com/RakugenSon/Multi-modal-dataset-for-odometry-estimation">**<font color="#C00000">Datasets</font>**</a>]
 
 
 - ``ICRA 2023 WS`` [Enhancement of Team JANUS’ cybernetic avatar system for exploration and skill transfer](https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf), R. Cisneros*, A. Dallard, M. Benallegue, K. Kaneko, H. Kaminaga, P. Gergondet, A. Tanguy, C. Fournier, R. Singh, Y. Chen, S. Chefchaouni-Moussaoui, G. Lorthioir, Y. Osawa, M. Tsuru, **<font color="#000000">Leyuan Sun</font>**, M. Morisawa, G. Caron, M. Ono, K. Shirasaka, S. Wada, H. Wada, F. Kanehiro and A. Kheddar. [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf">PDF</a>] [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/">Workshop page</a>] 
