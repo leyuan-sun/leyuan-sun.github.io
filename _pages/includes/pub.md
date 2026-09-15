@@ -122,7 +122,7 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TransFusionOdom.gif"><img src='images/TransFusionOdom.gif' alt="TransFusionOdom" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-``IEEE Sensors, 中科院二区TOP, JCR Q1, IF:4.3`` <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10214516"><b>TransFusionOdom: Transformer-Based LiDAR-Inertial Fusion Odometry Estimation</b></a> \\
+``IEEE Sensors Journal, 中科院二区TOP, JCR Q1, IF:4.3`` <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10214516"><b>TransFusionOdom: Transformer-Based LiDAR-Inertial Fusion Odometry Estimation</b></a> \\
 **<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, [Yue Qiu](https://qiuyue1993.github.io/qiuyue.github.com/), Y. Yoshiyasu and F. Kanehiro. \\
 [<a href="https://ieeexplore.ieee.org/document/10214516">PDF</a>] [<a href="https://github.com/RakugenSon/Multi-modal-dataset-for-odometry-estimation"><b><font color="#C00000">Dataset sample</font></b></a>]
 
