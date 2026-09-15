@@ -89,11 +89,9 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Graph-MambaNav.gif"><img src='images/Graph-MambaNav.gif' alt="Graph-MambaNav" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-``IEEE RA-L, 中科院二区, 新锐二区TOP, JCR Q1, IF:5.3`` <span class=PaperTitle><b>Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation</b></span> \\
+``IEEE RA-L, 中科院二区, 新锐二区TOP, JCR Q1, IF:5.3`` <a class=PaperTitle href="https://arxiv.org/abs/2608.13723"><b>Graph-MambaNav: Spatial-Temporal Graph Mamba Leveraging Object-Relation Knowledge for Object-Goal Navigation</b></a> \\
 **<font color="#000000">Leyuan Sun*</font>**, Genxin Chen, Linwei Ye, Yan Zhang, Xi Kan, and Yanfei Sun \\
-[<a href="https://arxiv.org/abs/2608.13723">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/11676043">IEEE</a>] [<a href="https://ieeexplore.ieee.org/document/11676043">Demo</a>]
-
+[<a href="https://arxiv.org/abs/2608.13723">arXiv</a>] [<a href="https://ieeexplore.ieee.org/document/11676043">IEEE</a>] [<a href="https://ieeexplore.ieee.org/document/11676043"><b><font color="#C00000">Demo</font></b></a>]
 
 </div>
 </div>
@@ -111,19 +109,15 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 </div>
 </div>
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/mmambanav.gif"><img src='images/mmambanav.gif' alt="Memory-MambaNav" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-``IMAVIS, CCF-C, 中科院小类2区, JCR Q1, IF:5.0`` <span class=PaperTitle><b>Memory-MambaNav: Enhancing Object-Goal Navigation through Integration of Spatial-Temporal Scanning with State Space Models</b></span> \\
+``IMAVIS, CCF-C, 中科院小类2区, JCR Q1, IF:5.0`` <a class=PaperTitle href="https://www.sciencedirect.com/science/article/pii/S0262885625001106"><b>Memory-MambaNav: Enhancing Object-Goal Navigation through Integration of Spatial-Temporal Scanning with State Space Models</b></a> \\
 **<font color="#000000">Leyuan Sun*</font>**, Yusuke Yoshiyasu. \\
 [<a href="https://www.sciencedirect.com/science/article/pii/S0262885625001106">PDF</a>] [<a href="https://sunleyuan.github.io/Memory-MambaNav/"><b><font color="#C00000">Project page</font></b></a>]
 
 </div>
 </div>
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/cslam.gif"><img src='images/cslam.gif' alt="PSNet" width="100%"></a></div></div>
