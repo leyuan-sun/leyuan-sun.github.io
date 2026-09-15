@@ -129,6 +129,16 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CertainOdom.gif"><img src='images/CertainOdom.gif' alt="CertainOdom" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+``IEEE ROBIO 2022`` <a class=PaperTitle href="https://ieeexplore.ieee.org/document/10011808"><b>CertainOdom: Uncertainty Weighted Multi-task Learning Model for LiDAR Odometry Estimation</b></a> \\
+**<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, Y. Yoshiyasu and F. Kanehiro. \\
+[<a href="https://ieeexplore.ieee.org/document/10011808">PDF</a>] [<a href="https://www.imis.tsukuba.ac.jp/archives/4788"><b><font color="#C00000">Best Conference Paper Award</font></b></a>]
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/cslam.gif"><img src='images/cslam.gif' alt="PSNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,8 +180,6 @@ Zipeng Qi, Hao Chen, **<font color="#C00000">Chenyang Liu</font>**, Zhenwei Shi,
 
 
 - ``ICRA 2023 WS`` [Enhancement of Team JANUS’ cybernetic avatar system for exploration and skill transfer](https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf), R. Cisneros*, A. Dallard, M. Benallegue, K. Kaneko, H. Kaminaga, P. Gergondet, A. Tanguy, C. Fournier, R. Singh, Y. Chen, S. Chefchaouni-Moussaoui, G. Lorthioir, Y. Osawa, M. Tsuru, **<font color="#000000">Leyuan Sun</font>**, M. Morisawa, G. Caron, M. Ono, K. Shirasaka, S. Wada, H. Wada, F. Kanehiro and A. Kheddar. [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/contributions/ICRA_2023_Avatar_WS_Cisneros.pdf">PDF</a>] [<a href="https://www.ais.uni-bonn.de/ICRA2023AvatarWS/">Workshop page</a>] 
-
-- ``IEEE ROBIO 2022`` [CertainOdom: Uncertainty Weighted Multi-task Learning Model for LiDAR Odometry Estimation](https://ieeexplore.ieee.org/document/10011808), **<font color="#000000">Leyuan Sun*</font>**, Guanqun Ding, Y. Yoshiyasu and F. Kanehiro. [<a href="https://ieeexplore.ieee.org/document/10011808">PDF</a>] [<a href="https://www.imis.tsukuba.ac.jp/archives/4788">**<font color="#C00000">Best Conference Paper Award</font>**</a>] 
 
 - ``RSS 2022 WS`` [Avatar system of Team JANUS: A cybernetic avatar to transport human presence to remote locations](https://unit.aist.go.jp/jrl-22022/en/projects/janus/papers/Cisneros_RSS2022-Workshop.pdf), R. Cisneros*, M. Benallegue, K. Kaneko, H. Kaminaga, G. Caron, A. Tanguy, R. Singh,  **<font color="#000000">Leyuan Sun</font>**, A. Dallard, C. Fournier, M. Tsuru, C. Yang, Y. Osawa, G. Lorthioir, F. Kanehiro and A. Kheddar. [<a href="https://unit.aist.go.jp/jrl-22022/en/projects/janus/papers/Cisneros_RSS2022-Workshop.pdf">PDF</a>] [<a href="https://www.youtube.com/watch?v=GnGmWgzANWU">**<font color="#C00000">Youtube Video</font>**</a>]
 
