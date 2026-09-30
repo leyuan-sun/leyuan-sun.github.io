@@ -5,7 +5,7 @@
 > —— 出自《纳瓦尔宝典》
 >
 > **English**  
-> The best jobs are creative expressions of lifelong learners in free markets.  
+> The best jobs are neither decreed nor degreed. They are creative expressions of continuous learners in free markets.
 > —— From *The Almanack of Naval Ravikant*
 >
 > **日本語**  
